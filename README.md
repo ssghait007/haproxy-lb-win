@@ -57,6 +57,7 @@ example of layer 4 and layer 7 proxy
 **References**
 > More info on ha-proxy windows
 > https://github.com/letssudormrf/haproxy-windows
+
 > Elaborated youtube tutorial
 > https://www.youtube.com/watch?v=aKMLgFVxZYk
 
